@@ -2,11 +2,7 @@
 title: "Simple document"
 author: "Sherry Zhang"
 date: "2024-09-10"
-output: html_document：
-  toc: true
-  toc_float: true
-editor_options: 
-  chunk_output_type: console
+output: html_document
 ---
 
 I'm an R Markdown document! 
